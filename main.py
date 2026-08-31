@@ -15,7 +15,7 @@ from telegram import Update, BotCommand
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # ─── TELEGRAM CONFIG ──────────────────────────────────────
-BOT_TOKEN = "8802900336:AAH-kjC7LYFHu60nAkKfSCZqc28AiRrB89M"
+BOT_TOKEN = "8711419221:AAGx9Rylji34qJeOShWZk0gQkv9YPZ7fXDo"
 ADMIN_ID = 8401097557
 
 # ─── ATTACK CONFIG ────────────────────────────────────────
